@@ -12,3 +12,7 @@ OM-Orchidée contains:
 WARNING: OM-Orchidee is not really useful with out a working Orchidee version + a sound database !
 
 J. Bresson, IRCAM, 2010-2011
+
+------------
+
+See also:  Grégoire Carpentier, Jean Bresson. [Interacting with Symbol, Sound and Feature Spaces in Orchidée, a Computer-Aided Orchestration Environment](https://hal.archives-ouvertes.fr/hal-00683471). Computer Music Journal, 34 (1), 2010.
