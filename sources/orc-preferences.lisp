@@ -16,7 +16,6 @@
 (add-external-pref-module 'orchidee)
 
 (defmethod get-external-name ((module (eql 'orchidee))) "Orchidee")
-(defmethod get-external-icon ((module (eql 'orchidee))) (and (exist-lib-p "OM-Orchidee") (list 899 (exist-lib-p "OM-Orchidee"))))
 
 (defmethod get-external-module-vals ((module (eql 'orchidee)) modulepref) (get-pref modulepref :orchidee-options))
 (defmethod get-external-module-path ((module (eql 'orchidee)) modulepref) (get-pref modulepref :orchidee-path))
